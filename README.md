@@ -20,17 +20,6 @@ I’m Uttarakavata Sudhakar,  a Computer Science student specializing in Data Sc
   <img src="https://skillicons.dev/icons?i=postman,linux,docker,aws,figma" />
 </p>
 
-🧠 What I Focus On
-
-🧩 Building real-world projects, not tutorials
-
-🤖 Applying AI & prompt engineering to real use-cases
-
-🧠 Writing clean, maintainable code
-
-🎖 Leading with discipline & accountability
-
-🚀 Constant skill upgradation
 
 ## 🌐 Connect With Me
 
@@ -39,4 +28,4 @@ I’m Uttarakavata Sudhakar,  a Computer Science student specializing in Data Sc
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="[https://instagram.com/YOUR_INSTAGRAM](https://www.instagram.com/sudharaju.here/)" target="_blank">
+  <a href="(https://www.instagram.com/sudharaju.here/)" target="_blank">
